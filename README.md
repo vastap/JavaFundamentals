@@ -5,20 +5,20 @@
 
 ### Список материалов:
 - Basics
--- [History of Java language and platform](./doc/01_history.md)
--- [Working with Java data types](./doc/02_datatypes.md)
--- [Using operators and decision constructs](./doc/03_operatorsAndDecisions.md)
--- [Creating and using arrays](./doc/04_arrays.md)
--- [Using loop constructs](./doc/05_loops.md)
--- Recursion
--- Working with selected classes from the Java API
+ - [History of Java language and platform](./doc/01_history.md)
+ - [Working with Java data types](./doc/02_datatypes.md)
+ - [Using operators and decision constructs](./doc/03_operatorsAndDecisions.md)
+ - [Creating and using arrays](./doc/04_arrays.md)
+ - [Using loop constructs](./doc/05_loops.md)
+ - Recursion
+ - Working with selected classes from the Java API
 
 - OOP
--- Java class design
--- Encapsulation
--- Inheritance
--- Polymorphism
--- Advanced Java class design
+ - Java class design
+ - Encapsulation
+ - Inheritance
+ - Polymorphism
+ - Advanced Java class design
 
 - More concepts
 -- Handling exceptions
