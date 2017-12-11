@@ -1,17 +1,24 @@
 # Java 01: Java Fundamentals
-![](https://pp.userapi.com/c629522/v629522699/3d626/UhMsJ2n2NTo.jpg)
+![](./img/JavaDuke.jpg)
 
 На основе [Epam Java Core](https://training.by/Registration/Registration/1699)
 
 ### Список материалов:
 - Basics
-    - [History of Java language and platform](./doc/01_history.md)
-    - [Working with Java data types](./doc/02_datatypes.md)
-    - [Using operators and decision constructs](./doc/03_operatorsAndDecisions.md)
-    - [Creating and using arrays](./doc/04_arrays.md)
-    - [Using loop constructs](./doc/05_loops.md)
-    - Recursion
-    - Working with selected classes from the Java API
+    - [0. History of Java language and platform](./doc/00_history.md)
+    - [1. Java Basics](./doc/01_basics.md)
+    - [1.1 Jit Compiler](./doc/jit.md)
+    - [2. Working with Java data types](./doc/02_datatypes.md)
+    - [2.1 Objects and classes](./doc/objects.md)
+    - [2.2 Data Areas](./doc/dataareas.md)
+    - [3. Using operators and decision constructs](./doc/03_operatorsAndDecisions.md)
+    - [4. Creating and Using Arrays](./doc/04_arrays.md)
+    - [5. Using Loop Constructs](./doc/05_loops.md)
+    - [6. Working with Methods and Encapsulation](./doc/06_encapsulation.md)
+    - [7. Working with Inheritance](./doc/07_inheritance.md)
+    - [8. Handling Exceptions](./doc/08_exceptions.md)
+    - [9. Working with selected classes from the Java API](./doc/09_workWithSelectedClasses.md)
+    - [Recursion](./doc/recursion.md)
 
 - OOP
     - Java class design
